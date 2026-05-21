@@ -12,6 +12,6 @@
 - Họ và tên: Lê Thành Đạt SBD: 09
 - Họ và tên: Lê Minh Đông SBD: 10
 - Họ và tên: Nguyễn Tuấn Anh SBD: 06
-Lớp: B10D54
+- Lớp: B10D54
 
 
